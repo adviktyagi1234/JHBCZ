@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(49, 53, 3);
+}
+
+h1 {
+background-color: blue;
+color: whitesmoke;
+}
+
+p {
+    font-size: x-large;
+    font-weight: bold;
+}
+
+h2{
+    color: whitesmoke;
+}
+#bale
+{
+    background-color: blue;
+    font-size: x-large;
+    font-weight: bold;
+    color: whitesmoke;
+}
+
+#elab
+{
+    background-color: blueviolet;
+}
+
+#66
+{
+    background-color: rgb(83, 244, 155);
+    border-radius: 50px;
+}
+
+#lulu
+{
+    background-color: rgb(83, 244, 155);
+    border-radius: 50px;
+}
+
+#tali
+{
+    background-color: rgb(83, 244, 155);
+    border-radius: 50px;
+}
